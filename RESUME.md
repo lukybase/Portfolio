@@ -11,13 +11,16 @@ Work Experience
   -	Designed and implemented electronic test lab equipment using Arduino and C++.
   -	Designed real-world data gatherer to analyze and record door cycles in the field.
   -	Verified and performed cost analysis of new test lab equipment.
+  
 • ASSA ABLOY Door Controls Design Engineering Intern:  	                      Summer, 2018
   -	Assisted Technical Product Support team with customers’ technical issues by phone.
   -	Stress and durability testing of metal product components.  Performed quality testing on a variety of potentially faulty products. 
   -	Completed end of summer report out presentation to managers and staff.
   -	Performed basic machining on equipment such as the milling machine and lathe.
+  
 • NCSU Research Assistant: Part-time			     November 2017 – February 2018
   -	Worked with Dr. Jacob Adams on field testing experimental, flexible EGaIn dipole antennas. (Required Amateur Radio License)
+  
 • ASSA ABLOY Door Controls Design Engineering Intern:  	                      Summer, 2017
   -	Worked with Design engineers and aided in new product designs, i.e. ECNs, CAD work, and drawing revisions in TeamCenter.  3D      Printing of components.  Designed and Built Testing apparatus for products.  Performed 5s.
   -	Completed end of summer report out presentation to managers and staff.
