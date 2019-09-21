@@ -6,6 +6,7 @@ Weddington High School (WHS), Matthews, NC				       May 2016
 Honor Student, GPA 3.78, Unweighted; GPA 4.81, Weighted
 
 Work Experience
+
 • ASSA ABLOY Entrance Systems Design Engineering Intern:  	                      Summer, 2019
   -	Designed and implemented electronic test lab equipment using Arduino and C++.
   -	Designed real-world data gatherer to analyze and record door cycles in the field.
