@@ -24,12 +24,14 @@ Work Experience
   -	Onsite product technical evaluation for large out-of-state customer.   
 
 Skills
+
 •	Proficiency in CAD (SolidWorks, Autodesk Inventor), Excel, MATLAB, and C++
 •	3D Printing, Rapid Prototyping, Technical Product Support, ECNs
 •	Licensed Amateur Radio Operator (Technician Class, KN4GYU)
 •	Spanish written and verbal - Intermediate
 
 Relevant Coursework
+
 •	Statics				
 •	Thermodynamics
 •	Differential Equations
@@ -40,12 +42,14 @@ Relevant Coursework
 •	Strength of materials
  
 Awards/Certifications
+
 •	Eagle Scout, 3palms, Troop 101.  					        Jan. 2014
 Completed service project for the Charlotte Rescue Mission homeless shelters. Lead troop to design, build, paint, and deliver 4 fully customized Corn Hole game sets and four picnic tables for the men’s and women’s shelters.
 •	Autodesk Inventor 2016 Certification			  	      Nov. 2015
 •	Microsoft Word and PowerPoint 2010 Certification		     	      Nov. 2012
 
 Extracurricular Activities
+
 •	Hobbyist Electronics, (Arduino, Raspberry Pi, 3D Printing)
 •	Amateur Radio Club, NCSU, Member					   2017 – 2018
 •	HS Engineering Club, Founding Member				   2013 – 2016
