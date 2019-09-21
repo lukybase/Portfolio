@@ -1,5 +1,6 @@
 # Portfolio
 Education
+
 	North Carolina State University, Raleigh, NC 		       			       May 2020
 		B.S. Mechanical Engineering 	GPA: 2.83
 Weddington High School (WHS), Matthews, NC				       May 2016
